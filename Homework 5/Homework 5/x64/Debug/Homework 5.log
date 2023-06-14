@@ -1,0 +1,4 @@
+﻿  Homework 5.cpp
+C:\Users\nikod\source\repos\Homework 5\Homework 5\Homework 5.cpp(23,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nikod\source\repos\Homework 5\Homework 5\Homework 5.cpp(109,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Homework 5.vcxproj -> C:\Users\nikod\source\repos\Homework 5\x64\Debug\Homework 5.exe

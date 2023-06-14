@@ -1,0 +1,52 @@
+﻿  Homework 6.cpp
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(31,24): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(28,1): message : while compiling class template member function 'void CNodeDynamic<T>::vPrTAllBelow(void)'
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(108,25): message : see reference to function template instantiation 'void CNodeDynamic<T>::vPrTAllBelow(void)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(96,11): message : see reference to class template instantiation 'CNodeDynamic<T>' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(25,27): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(24,1): message : while compiling class template member function 'CNodeDynamic<T> *CNodeDynamic<T>::pcGetChild(T)'
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(98,37): message : see reference to function template instantiation 'CNodeDynamic<T> *CNodeDynamic<T>::pcGetChild(T)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(13,31): warning C4244: 'argument': conversion from 'T' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(10,1): message : while compiling class template member function 'CNodeDynamic<T>::~CNodeDynamic(void)'
+          with
+          [
+              T=double
+          ]
+C:\Users\nikod\source\repos\Homework 6\Homework 6\Homework 6.cpp(46,1): message : see reference to function template instantiation 'CNodeDynamic<T>::~CNodeDynamic(void)' being compiled
+          with
+          [
+              T=double
+          ]
+  Homework 6.vcxproj -> C:\Users\nikod\source\repos\Homework 6\x64\Debug\Homework 6.exe

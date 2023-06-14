@@ -1,0 +1,4 @@
+﻿  Homework 4.cpp
+C:\Users\nikod\source\repos\Homework 4\Homework 4\Homework 4.cpp(142,16): warning C4101: 'e': unreferenced local variable
+C:\Users\nikod\source\repos\Homework 4\Homework 4\Homework 4.cpp(156,20): warning C4101: 'e': unreferenced local variable
+  Homework 4.vcxproj -> C:\Users\nikod\source\repos\Homework 4\x64\Debug\Homework 4.exe
